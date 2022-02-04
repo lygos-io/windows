@@ -1,3 +1,3 @@
 # Linux and Windows
-Windows NSIS Releases 
+Windows NSIS Releases and
 Linux AppImage Releases
