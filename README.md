@@ -1,3 +1,2 @@
-# Linux and Windows
-Windows NSIS Releases and
-Linux AppImage Releases
+# Lygos PC Releases
+Windows, Linux and Mac Releases
