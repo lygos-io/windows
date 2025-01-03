@@ -1,7 +1,0 @@
-{
-  "win32-x64-prod": {
-    "update": "https://github.com/lygosio/releases/releases/download/win32-x64-prod-3.6.22",
-    "install": "https://github.com/lygosio/releases/releases/download/win32-x64-prod-3.6.22/lygos.Setup.3.6.22.exe",
-    "version": "3.6.22"
-  }
-}
