@@ -1,0 +1,8 @@
+{
+  "linux-x64-prod": {
+    "update": "https://github.com/lygosio/releases/releases/download/linux-x64-prod-3.6.24/lygos-3.6.24.AppImage",
+    "install": "https://github.com/lygosio/releases/releases/download/linux-x64-prod-3.6.24/lygos-3.6.24.AppImage",
+    "version": "3.6.24",
+    "sha256": "87812855ba12edb99228a28869cfbeb976e4ed02fa808f0902932277049dfbbd"
+  }
+}
