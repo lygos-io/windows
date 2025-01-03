@@ -3,7 +3,7 @@ Windows, Linux and Mac Releases
 
 Please visit [lygos.io](https://lygos.io) for more information about lygos software.
 
-IMPORTANT! By Downloading our software you will be accepting our EULA :
+IMPORTANT! By downloading our software you will be accepting our EULA :
 
 END USER LICENCE AGREEMENT
 
