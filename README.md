@@ -6,7 +6,9 @@ Please visit [lygos.io](https://lygos.io) for more information about lygos.
 IMPORTANT !!! By Downloading a Lygos Release you will be accepting our EULA:
 
 END USER LICENCE AGREEMENT
+
 Last updated September 07, 2023
+
 Lygos is licensed to You (End-User) by KVNC R&D Software Solutions Limited Company, located at Hilal Road 13/3, Etimesgut, Ankara, 06790, Turkey ('Licensor'), for use only under the terms of this Licence Agreement. Our VAT number is 6070803771.
 
 By downloading the Licensed Application from Apple's software distribution platform ('App Store') and Google's software distribution platform ('Play Store'), and any update thereto (as permitted by this Licence Agreement), You indicate that You agree to be bound by all of the terms and conditions of this Licence Agreement, and that You accept this Licence Agreement. App Store and Play Store are referred to in this Licence Agreement as 'Services'.
