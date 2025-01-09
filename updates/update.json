@@ -9,5 +9,10 @@
     "update": "https://github.com/lygosio/releases/releases/download/win32-x64-prod-3.6.24",
     "install": "https://github.com/lygosio/releases/releases/download/win32-x64-prod-3.6.24/lygos.Setup.3.6.24.exe",
     "version": "3.6.24"
+  },
+  "darwin-x64-prod": {
+    "update": "https://github.com/lygosio/releases/releases/download/darwin-x64-prod-3.6.24/release.json",
+    "install": "https://github.com/lygosio/releases/releases/download/darwin-x64-prod-3.6.24/lygos-3.6.24.dmg",
+    "version": "3.6.24"
   }
 }
