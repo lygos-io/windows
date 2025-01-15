@@ -3,7 +3,7 @@
     "update": "https://github.com/lygosio/releases/releases/download/linux-x64-prod-3.6.24/lygos-3.6.24.AppImage",
     "install": "https://github.com/lygosio/releases/releases/download/linux-x64-prod-3.6.24/lygos-3.6.24.AppImage",
     "version": "3.6.24",
-    "sha256": "30035ef30eb5a0fc224491dda3b69b1f9c2358ede2af64ca9a02221fd16bd1ad"
+    "sha256": "cc2bae1130be2852c02015092433d97ae2f88913005d1ebaf30361d89a9fa01e"
   },
   "win32-x64-prod": {
     "update": "https://github.com/lygosio/releases/releases/download/win32-x64-prod-3.6.24",
